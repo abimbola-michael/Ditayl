@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ditayl</string>
+    <string name="action_new_details">New Details</string>
+    <string name="action_clear">Clear All</string>
+    <string name="action_settings">Settings</string>
+    <string name="create_edit_activity_label">New Details</string>
+    <string name="change_photo">Change Photo</string>
+    <string name="add_photo">Add Photo</string>
+    <string name="new_details">New Details</string>
+    <string name="edit_details">Edit Details</string>
+    <string name="add_new_text">No new Details. Add New</string>
+
+</resources>

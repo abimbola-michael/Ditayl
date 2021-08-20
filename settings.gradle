@@ -1,0 +1,2 @@
+rootProject.name = "Details Saver"
+include ':app'
